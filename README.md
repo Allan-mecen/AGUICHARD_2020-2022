@@ -1,5 +1,9 @@
-# A_GUICHARD_2021-2022
+# A_GUICHARD_Projet
 
 In this section, you'll find all the things I work on this year. 
 
-**More precisely, you'll find some scripts of python courses and industrial economy exercises with python and SciPy.**
+## 2020 | 2021:
+
+#### Econometrics project: Post bachelor students database
+
+In this study, we aim at predict the probability of success in the economic program based on the post bachelor student profile. In order to achieve the objective, we want to explore different ways through several models and find the best prediction. 
